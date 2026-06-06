@@ -1,0 +1,8 @@
+numpy
+scipy
+pandas
+h5py
+pydantic>=2
+PyQt6
+matplotlib
+fooof
